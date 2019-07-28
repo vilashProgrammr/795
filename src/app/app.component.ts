@@ -53,7 +53,7 @@ export class AppComponent implements OnInit {
             });
             break;
           case '/' + RoutesConfig.routesNames.heroes.basePath:
-            this.title.setTitle('Heroes list');
+            this.title.setTitle('Heroes lisjkbj');
             this.meta.updateTag({
               name: 'description',
               content: this.i18n({value: 'Heroes meta description', id: '@@heroesMetaDescription'})
